@@ -99,8 +99,8 @@ This dataset captures employee demographic, compensation, performance, and satis
 #### Attrition Indicator
 Attrition: Binary variable indicating whether the employee has left the organization (Yes/No).
 # 2. Analysis
-## Problem Statement
-- Highattritionrateshavebeenobserved,
+## 2.1 Problem Statement
+- High attrition rates have been observed,
 which could impact productivity and
 organizationalperformance.
 - Lackof clear understandingof attrition
@@ -110,3 +110,29 @@ demographics,andtenure.
 recentattritionandlowsurveyscores.
 - Needforbettervisualizationofworkforce
 datatosupportdecision-making.
+## 2.2 Key Indicators
+#### 2.2.1  Attrition Rate: Total Attrition: Current Employees:
+The organisation reports an overall attrition rate of 16.36%, equating to 243 departures out of a total workforce of 1,485 employees. Departmental analysis shows that Sales has the highest attrition rate at approximately 25.8%, followed by HR at 23.5%, while R&D records a lower rate of 16.6% despite contributing the highest absolute number of exits due to its larger headcount. Role-level insights indicate elevated turnover among Sales Executives, Research Scientists, and Laboratory Technicians, highlighting retention risks within revenue-generating and core technical functions. Attrition is heavily concentrated within the first three years of tenure, after which exit rates decline significantly, suggesting early-career vulnerability. The current workforce distribution consists of 835 employees in R&D, 356 in Sales, and 51 in HR, with R&D accounting for the majority of total headcount.
+
+<img src="https://github.com/user-attachments/assets/88fb361f-caf6-482b-b3df-d02de062e519" width="100%" alt="Screenshot 2026-02-25 173536" />
+
+#### 2.2.2 Demographics by Gender, Age Group, and Educational Field:
+Higher turnover is observed among employees aged 18–35, particularly within the 27–35 bracket. While male attrition counts are higher, this aligns with workforce composition rather than indicating disproportionate risk. Employees with Life Sciences and Medical educational backgrounds account for the largest share of exits, largely due to their concentration in R&D and technical roles. Younger, technically skilled employees exhibit higher mobility.
+
+<img src="https://github.com/user-attachments/assets/5faecc24-ad82-445c-b75e-5e40fd4ab6ae" width="100%" alt="Screenshot 2026-02-25 173650" />
+
+#### 2.2.3 Survey Score:
+There is a clear inverse relationship between job satisfaction scores and attrition. Employees reporting lower satisfaction levels (scores 1–2) demonstrate significantly higher exit rates, particularly in Sales and laboratory-based roles. This indicates that engagement and perceived job quality are materially correlated with turnover outcomes.
+
+<img src="https://github.com/user-attachments/assets/cb476f64-a12f-489b-ad0b-cb028e066f88" width="100%" alt="Screenshot 2026-02-25 173902" />
+
+#### 2.2.4 Recent Attrition:
+Recent exits include a Sales Representative and a Research Scientist, both high performers with short tenure (2–3 years) and low job satisfaction scores. Despite receiving competitive salary increases, both individuals left the organization. This pattern suggests attrition drivers are less compensation-related and more closely tied to engagement, role experience, or career development limitations within early tenure stages.
+
+<img src="https://github.com/user-attachments/assets/2509dddc-3565-44d7-a200-bc0b30fb9690" width="100%" alt="Screenshot 2026-02-25 173849" />
+
+
+#### 2.2.5 Attrition Trend:
+Attrition decreases progressively with years in role. The highest exit rates occur within the first two to three years, followed by a marked decline after mid-tenure. Long-tenured employees (10+ years) show minimal attrition. This trend suggests early engagement, onboarding effectiveness, and career progression pathways are critical retention levers.
+
+<img src="https://github.com/user-attachments/assets/eb16c38a-efea-4eaa-aaf8-d906790f55d2" width="100%" alt="Screenshot 2026-02-25 173714" />
