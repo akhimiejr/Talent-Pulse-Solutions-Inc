@@ -98,3 +98,15 @@ This dataset captures employee demographic, compensation, performance, and satis
 
 #### Attrition Indicator
 Attrition: Binary variable indicating whether the employee has left the organization (Yes/No).
+# 2. Analysis
+## Problem Statement
+- Highattritionrateshavebeenobserved,
+which could impact productivity and
+organizationalperformance.
+- Lackof clear understandingof attrition
+trends across departments,
+demographics,andtenure.
+- Difficultyinidentifyingfactorsinfluencing
+recentattritionandlowsurveyscores.
+- Needforbettervisualizationofworkforce
+datatosupportdecision-making.
